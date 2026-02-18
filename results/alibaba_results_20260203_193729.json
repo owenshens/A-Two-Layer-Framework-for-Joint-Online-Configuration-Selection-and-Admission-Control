@@ -1,0 +1,206 @@
+{
+  "timestamp": "20260203_193729",
+  "total_results": 8,
+  "results": [
+    {
+      "algorithm": "SP-UCB-OLP",
+      "rho": 0.7,
+      "seed": 42,
+      "total_reward": 25149821.22275858,
+      "regret": 110450645.40409024,
+      "competitive_ratio": 0.18547001974533714,
+      "acceptance_rate": 0.041,
+      "total_accepts": 41,
+      "V_mix": 135600.46662684882,
+      "T_V_mix": 135600466.62684882,
+      "K": 3,
+      "d": 2,
+      "T": 1000,
+      "elapsed_time": 0.650515079498291,
+      "budget_utilization": [
+        0.14037512160085885,
+        0.14274732842066296
+      ],
+      "N_theta": [
+        194,
+        359,
+        447
+      ]
+    },
+    {
+      "algorithm": "Greedy",
+      "rho": 0.7,
+      "seed": 42,
+      "total_reward": 54831477.89231545,
+      "regret": 80768988.73453337,
+      "competitive_ratio": 0.4043605398733845,
+      "acceptance_rate": 0.093,
+      "total_accepts": 93,
+      "V_mix": 135600.46662684882,
+      "T_V_mix": 135600466.62684882,
+      "K": 3,
+      "d": 2,
+      "T": 1000,
+      "elapsed_time": 0.5706841945648193,
+      "budget_utilization": [
+        0.31093453100708335,
+        0.3572400886751589
+      ],
+      "N_theta": [
+        1,
+        525,
+        474
+      ]
+    },
+    {
+      "algorithm": "Random",
+      "rho": 0.7,
+      "seed": 42,
+      "total_reward": 119731868.47250566,
+      "regret": 15868598.154343158,
+      "competitive_ratio": 0.8829753425700883,
+      "acceptance_rate": 0.253,
+      "total_accepts": 253,
+      "V_mix": 135600.46662684882,
+      "T_V_mix": 135600466.62684882,
+      "K": 3,
+      "d": 2,
+      "T": 1000,
+      "elapsed_time": 0.005587100982666016,
+      "budget_utilization": [
+        0.835704739478684,
+        0.999866163655541
+      ],
+      "N_theta": [
+        355,
+        326,
+        319
+      ]
+    },
+    {
+      "algorithm": "Oracle",
+      "rho": 0.7,
+      "seed": 42,
+      "total_reward": 134148386.81308426,
+      "regret": 1452079.8137645572,
+      "competitive_ratio": 0.9892914836513029,
+      "acceptance_rate": 0.199,
+      "total_accepts": 199,
+      "V_mix": 135600.46662684882,
+      "T_V_mix": 135600466.62684882,
+      "K": 3,
+      "d": 2,
+      "T": 1000,
+      "elapsed_time": 0.007181882858276367,
+      "budget_utilization": [
+        0.6151412388286297,
+        0.9997060176023425
+      ],
+      "N_theta": [
+        0,
+        0,
+        1000
+      ]
+    },
+    {
+      "algorithm": "SP-UCB-OLP",
+      "rho": 1.0,
+      "seed": 42,
+      "total_reward": 2789361.98880351,
+      "regret": 146717812.73555526,
+      "competitive_ratio": 0.018657044345504897,
+      "acceptance_rate": 0.014,
+      "total_accepts": 14,
+      "V_mix": 149507.17472435877,
+      "T_V_mix": 149507174.72435877,
+      "K": 3,
+      "d": 2,
+      "T": 1000,
+      "elapsed_time": 0.4306049346923828,
+      "budget_utilization": [
+        0.03105708648889527,
+        0.04272296334256864
+      ],
+      "N_theta": [
+        304,
+        329,
+        367
+      ]
+    },
+    {
+      "algorithm": "Greedy",
+      "rho": 1.0,
+      "seed": 42,
+      "total_reward": 53336815.343046546,
+      "regret": 96170359.38131222,
+      "competitive_ratio": 0.3567508746077357,
+      "acceptance_rate": 0.083,
+      "total_accepts": 83,
+      "V_mix": 149507.17472435877,
+      "T_V_mix": 149507174.72435877,
+      "K": 3,
+      "d": 2,
+      "T": 1000,
+      "elapsed_time": 0.6124370098114014,
+      "budget_utilization": [
+        0.1857061032266315,
+        0.248342488349376
+      ],
+      "N_theta": [
+        1,
+        134,
+        865
+      ]
+    },
+    {
+      "algorithm": "Random",
+      "rho": 1.0,
+      "seed": 42,
+      "total_reward": 126252207.39818569,
+      "regret": 23254967.326173082,
+      "competitive_ratio": 0.8444558438814227,
+      "acceptance_rate": 0.383,
+      "total_accepts": 383,
+      "V_mix": 149507.17472435877,
+      "T_V_mix": 149507174.72435877,
+      "K": 3,
+      "d": 2,
+      "T": 1000,
+      "elapsed_time": 0.004120826721191406,
+      "budget_utilization": [
+        0.9002736587539005,
+        0.9999799817433512
+      ],
+      "N_theta": [
+        355,
+        326,
+        319
+      ]
+    },
+    {
+      "algorithm": "Oracle",
+      "rho": 1.0,
+      "seed": 42,
+      "total_reward": 149474782.32328415,
+      "regret": 32392.4010746181,
+      "competitive_ratio": 0.9997833388187936,
+      "acceptance_rate": 0.313,
+      "total_accepts": 313,
+      "V_mix": 149507.17472435877,
+      "T_V_mix": 149507174.72435877,
+      "K": 3,
+      "d": 2,
+      "T": 1000,
+      "elapsed_time": 0.0072209835052490234,
+      "budget_utilization": [
+        0.6718640616050477,
+        0.9988669666736107
+      ],
+      "N_theta": [
+        0,
+        0,
+        1000
+      ]
+    }
+  ]
+}

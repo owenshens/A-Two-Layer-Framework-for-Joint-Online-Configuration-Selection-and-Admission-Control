@@ -1,0 +1,11 @@
+# Raw data (too large for GitHub; download with download_data.py)
+data/raw/batch_task.csv
+data/raw/*.tar.gz
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store

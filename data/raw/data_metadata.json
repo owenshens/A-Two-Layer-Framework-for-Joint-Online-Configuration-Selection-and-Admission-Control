@@ -1,0 +1,16 @@
+{
+  "total_rows": 13442065,
+  "original_rows": 14295731,
+  "time_span_seconds": 772823,
+  "time_span_days": 8.944710648148147,
+  "cpu_mean": 83.64491608990137,
+  "cpu_std": 63.5098523812094,
+  "mem_mean": 34.880982274672824,
+  "mem_std": 29.884676339945635,
+  "duration_mean": 96.09506151026646,
+  "duration_std": 1480.503715755636,
+  "duration_min": 1.0,
+  "duration_max": 583886.0,
+  "download_date": "2026-02-03T19:36:25.682796",
+  "source": "alibaba_cluster_trace_v2018"
+}
